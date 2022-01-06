@@ -15,5 +15,5 @@ This work is inspired by [8bitworkshop.com](https://8bitworkshop.com/v3.9.0/?pla
 This project is GPL-3.0 licensed.
 
 
-The files ```assets/jroatch.chr``` and ```src/nesdefs.inc``` are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 
+Files ```assets/jroatch.chr``` and ```src/nesdefs.inc``` are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 
 license. File source: https://github.com/sehugg/8bitworkshop
