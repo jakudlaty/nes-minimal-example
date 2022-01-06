@@ -1,7 +1,7 @@
 # nes-minimal-example
 Minimal NES assembly example using ca65
 
-This "project" is a simple example of displaying text on nes screen. Nothing more. It was created to impress my 8 year old daughter.
+This "project" is a simple example of how to display text on NES screen. Nothing more. It was created to impress my 8 year old daughter.
 
 This work is based on [8bitworkshop.com](https://8bitworkshop.com/v3.9.0/?platform=nes&file=ex1.dasm) examples, but converted to ca65 assembly and reorganized.  
 
