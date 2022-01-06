@@ -25,5 +25,5 @@ ca65 $SRC/init.s -o $OUT/init.o -g
 ca65 $SRC/main.s -o $OUT/main.o -g
 
 cd $OUT
-ld65 -t nes init.o main.o -o nestest.nes --dbgfile nestest.dbg -Ln nestest.labels.txt -m nestest.map.txt
+ld65 -t nes init.o main.o -o hello.nes --dbgfile hello.dbg -Ln hello.labels.txt -m hello.map.txt
 cd $CURRENT
